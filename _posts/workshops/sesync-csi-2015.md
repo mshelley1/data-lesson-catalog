@@ -1,5 +1,4 @@
-### Example YAML classification of a catalog entry
-
+---
 layout: post
 category: workshop
 catalog-entry-type: workshop
@@ -27,3 +26,4 @@ comments: TRUE
 event-coordinates: 
 event-location:    "Annapolis, MD"
 pre-req: "None"
+---
