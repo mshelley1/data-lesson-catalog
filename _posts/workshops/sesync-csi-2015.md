@@ -7,7 +7,7 @@ description: "Instruction in open source tools for collaborative coding and data
 authors: ["Kelly Hondula, Philippe Marchand, Mary Shelley, Mike Smorul"]
 organization: [SESYNC]
 identifier: 
-license-name:  CC-BY                 
+license-name: CC-BY                 
 target-audience: "graduate students, postdocs"
 date-published: 2015
 citation: 
